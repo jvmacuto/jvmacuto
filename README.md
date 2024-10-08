@@ -24,7 +24,7 @@ Here are some of my notable projects:
 
 - **Languages**: JavaScript, C, Java
 - **Frameworks**: React, Node.js
-- **Tools**: Git, Docker, VS Code, Photoshop, Microsoft Office/
+- **Tools**: Git, Docker, VS Code, Photoshop, Microsoft Office
 
 ## Connect with Me
 
